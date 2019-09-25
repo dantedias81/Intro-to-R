@@ -2,7 +2,7 @@
 
 
 # R script to accopany Intro to R
-# Copy for RStudent 2019
+# Copy for Dante 2019
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
